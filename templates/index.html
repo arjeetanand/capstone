@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>Disease and Drug Recommendation System</title>
+
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+  </head>
+  <body>
+    <div class="ai-doctor">Ai Doctor</div>
+
+    <div class="rectangle-26">
+      <img src="static/assets/images/bg-1.png" />
+    </div>
+    <div class="text-content">
+      <div class="vikasit-bharat">Vikasit Bharat</div>
+      <div class="virtual-healthcare-for-you">
+        Virtual healthcare
+        <br />
+        for you
+      </div>
+      <div class="affordable-healthcare-and-online-for-everyone">
+        Affordable healthcare and online for everyone
+      </div>
+      <div class="button-12">
+        <a href="#chatOut" class="try-it-today">Try it today </a>
+        <!-- <img class="message-circle" src="image/message-circle.png" /> -->
+      </div>
+      <div class="button-13">
+        <!-- Link to notebook.html -->
+        <a href="/note" class="notebook">Notebook</a>
+        <a href="/noteb" class="notebook">Notebook1</a>
+      </div>
+    </div>
+
+    <!-- ChatBot Section -->
+    <div class="section-4-chatbot">
+      <h2 class="chat-bot" id="chatOut">ChatBot</h2>
+      <div class="chbackground">
+        <div class="chat-output" id="chatOutput"></div>
+        <!-- Bot responses will be displayed here -->
+      </div>
+      <div class="outer">
+        <div class="main-message-box">
+          <input
+            type="text"
+            class="user-input"
+            placeholder="Type a new message here"
+          />
+          <button class="send" onclick="sendMessage()">Send</button>
+        </div>
+      </div>
+    </div>
+
+    <div class="doctor-landing-page bg">©2024 - Capstone Project</div>
+    <script src="{{ url_for('static', filename='js/landing.js') }}"></script>
+  </body>
+</html>

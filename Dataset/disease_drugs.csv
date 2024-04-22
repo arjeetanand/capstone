@@ -1,0 +1,100 @@
+Disease,Drug
+fungal infection,Antifungal Cream
+fungal infection,Fluconazole
+fungal infection,Itraconazole
+allergy,Antihistamines
+allergy,Corticosteroids
+allergy,Epinephrine
+gerd,Proton Pump Inhibitors
+gerd,H2 Blockers
+gerd,Antacids
+chronic cholestasis,Ursodeoxycholic Acid
+drug reaction,Antihistamines
+drug reaction,Corticosteroids
+drug reaction,Epinephrine
+peptic ulcer disease,Proton Pump Inhibitors
+peptic ulcer disease,H2 Blockers
+peptic ulcer disease,Antacids
+aids,Antiretroviral Therapy (ART)
+diabetes,Metformin
+diabetes,Insulin
+diabetes,Sitagliptin
+gastroenteritis,Oral Rehydration Solution
+gastroenteritis,Antibiotics (in bacterial gastroenteritis)
+bronchial asthma,Bronchodilators
+bronchial asthma,Inhaled Corticosteroids
+bronchial asthma,Leukotriene Modifiers
+hypertension,ACE Inhibitors
+hypertension,Beta-blockers
+hypertension,Calcium Channel Blockers
+migraine,Triptans
+migraine,NSAIDs
+migraine,Beta-blockers
+cervical spondylosis,Pain Relievers
+cervical spondylosis,Muscle Relaxants
+cervical spondylosis,Physical Therapy
+paralysis (brain hemorrhage),Rehabilitation
+paralysis (brain hemorrhage),Physical Therapy
+paralysis (brain hemorrhage),Occupational Therapy
+jaundice,Ursodeoxycholic Acid
+jaundice,Vitamin K
+jaundice,Liver Supportive Medications
+malaria,Chloroquine
+malaria,Artemether
+malaria,Lumefantrine
+chicken pox,Acyclovir
+chicken pox,Antihistamines
+chicken pox,Calamine Lotion
+dengue,Fluid Replacement Therapy
+dengue,Pain Relievers
+dengue,Monitoring
+typhoid,"Antibiotics (e.g., Ciprofloxacin, Ceftriaxone)"
+hepatitis a,Hepatitis A Vaccine
+hepatitis a,Supportive Care
+hepatitis b,Hepatitis B Vaccine
+hepatitis b,"Antiviral Medications (e.g., Tenofovir)"
+hepatitis c,"Antiviral Medications (e.g., Sofosbuvir, Ledipasvir)"
+hepatitis d,Hepatitis D Vaccine
+hepatitis d,Antiviral Medications
+hepatitis e,Supportive Care
+hepatitis e,Avoidance of Alcohol
+alcoholic hepatitis,Corticosteroids
+alcoholic hepatitis,Pentoxifylline
+alcoholic hepatitis,Nutritional Support
+tuberculosis,Isoniazid
+tuberculosis,Rifampin
+tuberculosis,Pyrazinamide
+tuberculosis,Ethambutol
+common cold,Pain Relievers
+common cold,Decongestants
+common cold,Antihistamines
+pneumonia,"Antibiotics (e.g., Amoxicillin, Azithromycin, Levofloxacin)"
+dimorphic hemorrhoids (piles),Pain Relievers
+dimorphic hemorrhoids (piles),Stool Softeners
+dimorphic hemorrhoids (piles),Dietary Changes
+heart attack,Aspirin
+heart attack,Beta-blockers
+heart attack,ACE Inhibitors
+varicose veins,Compression Stockings
+varicose veins,Venotonics
+hypothyroidism,Levothyroxine
+hyperthyroidism,Beta-blockers
+hyperthyroidism,"Antithyroid Drugs (e.g., Methimazole, Propylthiouracil)"
+hypoglycemia,Oral Glucose
+hypoglycemia,Glucagon
+hypoglycemia,Dextrose
+osteoarthritis,Pain Relievers
+osteoarthritis,Topical Treatments
+osteoarthritis,Physical Therapy
+arthritis,NSAIDs
+arthritis,DMARDs
+arthritis,Biologic Agents
+(vertigo) paroxysmal positional vertigo,Epley Maneuver
+(vertigo) paroxysmal positional vertigo,Vestibular Rehabilitation
+acne,"Topical Treatments (e.g., Benzoyl Peroxide, Retinoids)"
+acne,"Oral Medications (e.g., Antibiotics, Isotretinoin)"
+urinary tract infection,"Antibiotics (e.g., Trimethoprim-Sulfamethoxazole, Ciprofloxacin)"
+psoriasis,"Topical Treatments (e.g., Corticosteroids, Vitamin D Analogues)"
+psoriasis,"Systemic Treatments (e.g., Methotrexate, Biologic Agents)"
+impetigo,"Topical Antibiotics (e.g., Mupirocin)"
+impetigo,"Oral Antibiotics (e.g., Cephalexin, Dicloxacillin)"
